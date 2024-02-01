@@ -25,11 +25,12 @@ Basta importar ele por meio do mySql no phpMyAdmin
 **INFORMAÇÕES ADICIONAIS**
 
 :heavy_check_mark: MVC
+<br>
 :heavy_check_mark: Seguindo um padrão de projeto para verificar meu conhecimento em PHP!
 
 :heavy_check_mark: Em uma arquitetura típica de aplicação seguindo o padrão MVC (Model-View-Controller) ou similar, a comunicação entre as camadas é estruturada da seguinte forma:
 
-### View 
+### View :
 
 :heavy_check_mark: Responsável pela apresentação da interface gráfica ou de usuário.
 
