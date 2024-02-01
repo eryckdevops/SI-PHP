@@ -81,7 +81,7 @@ são componentes que são chamados por meio da index.php.
 
 
 - **Projeto Erick Rodrigues**
-![This is an image](/Prints/Home2.png)
+![This is an image](/Prints/FA.png)
 
 - **Projeto Erick Rodrigues**
 ![This is an image](/Prints/Cursos.png)
